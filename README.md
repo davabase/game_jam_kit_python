@@ -39,6 +39,7 @@ python -m venv venv
 ```
 
 Initialize it:
+
 on Windows:
 ```
 venv\Scripts\activate
